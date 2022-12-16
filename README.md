@@ -2,7 +2,7 @@
 
 _**A simple and powerful drag&drop component for Vue developers**_
 
-> Thank you for install vue-flexable-dnd component ———  A drug and drop component developed for vue, which can sovle the problem that other dnd components can't do，like can use flex layout and sort mode
+> Thank you for install vue-flexable-dnd component ———  A drag and drop component developed for vue, which can sovle the problem that other dnd components can't do，like can use flex layout and sort mode
 
 <!-- > 一个为vue开发的拖拽组件，解决了其他dnd组件无法进行弹性布局与排序模式的问题 -->
 
@@ -13,6 +13,9 @@ _**A simple and powerful drag&drop component for Vue developers**_
 - Ability to customize internal styles and layout
 - Flexible function slot
 - More functions will be adapted in the future
+  
+## 👀  preview
+> [ 🔍 see example website ](https://vicissitidues.github.io/vue-flexable-dnd/dist/index.html)
 ## 💻 Gatting started
 #### component install 
 ```
@@ -97,13 +100,17 @@ _if that doesnt work, please refer to the contents inside ```vue-flexable-dnd/ex
 _**Any 🤔️ issue or 👷 job for me：**_
 > contact email: weijia618@outlook.com
 
+[🙋‍♀️🙋🏿‍♂️🙋🏼send issue And suggestions(Global) ](https://github.com/Vicissitidues/vue-flexable-dnd/issues/new)
+
+[ &emsp;&emsp;&emsp;&nbsp; send issue And suggestions(CN) ](https://gitee.com/vicissitidues/vue-flexable-dnd/issues/new)
+
 if yor got any job to offer contain these frameworks below:
-- vue 
-- react
-- flutter
-- react-native
-- node.js full stack dev.
-- ios or android software development
+- Vue 
+- React
+- Flutter
+- React-native
+- Node.js full stack development.
+- iOS or Android software development
 
 telecommute：✅ 
 
@@ -112,3 +119,10 @@ part-time：✅
 full-time job:  🇨🇳 chengdu 🐼
 
 **contact me by email now ^_^**
+
+___
+
+## Versions
+#### V0.0.1
+- basic function, original versin 
+ 
