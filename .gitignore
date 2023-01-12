@@ -1,7 +1,13 @@
 .DS_Store
 node_modules
 /dist
+packages/
+public/
 
+# config file
+vue.config.js
+babel.config.js
+*.map
 
 # local env files
 .env.local
