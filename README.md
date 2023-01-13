@@ -21,6 +21,16 @@ _**A simple and powerful drag&drop component for Vue developers**_
 ```
 npm install vue-flexable-dnd
 ```
+#### 🏭 import into your project
+```js
+VUE3:
+import { createApp } from 'vue'
+import App from './App.vue'
+import VDContainer from 'vue-flexable-dnd'
+
+createApp(App).use(VDContainer).mount('#app')
+// after that, you can use <VDContainer> anywhere in proejct
+```
 #### 📃 import into your page
 ```js
 import VDComponent from 'vue-flexable-dnd';
@@ -30,14 +40,6 @@ export default{
         VDComponent
     }
 }
-```
-#### 🏭 import into your project
-```js
-import VDComeponent from 'vue-flexable-dnd';
-import App from 'vue';
-
-VDComponent.install(App).mount('App')
-// after that, you can use <VDComponent> anywhere in proejct
 ```
 #### 🐟 grammar
 _HTML_
@@ -125,4 +127,8 @@ ___
 ## Versions
 #### V0.0.1
 - basic function, original versin 
- 
+#### v0.1.0
+- fix some issues 
+#### v0.1.3
+- improve user experience： using component without import css;
+- update readme

@@ -3,6 +3,7 @@ node_modules
 /dist
 packages/
 public/
+lib
 
 # config file
 vue.config.js
