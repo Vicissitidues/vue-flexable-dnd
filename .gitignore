@@ -9,6 +9,7 @@ lib
 vue.config.js
 babel.config.js
 *.map
+.gitignore
 
 # local env files
 .env.local

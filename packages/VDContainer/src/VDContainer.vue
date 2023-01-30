@@ -8,8 +8,8 @@
         </div>
     </div>
 </template>
-<script setup >
-import { reactive } from "@vue/reactivity";
+<script setup>
+import { reactive } from "vue";
 /**
  * @description a simple It is used to implement drag and drop 
  * functions and provide rich customized content
